@@ -7,8 +7,11 @@ Flyier is a very powerful and effective DoS/DDoS written in Python.
 On linux:
 
 $ git clone https://github.com/zSodex/Flyier-DoS
+
 $ cd Flyier-DoS
+
 $ pip3 install -r requirements.txt
+
 $ python3 main.py 
 
 # Interface 
