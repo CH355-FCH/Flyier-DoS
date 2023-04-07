@@ -14,8 +14,15 @@ $ pip3 install -r requirements.txt
 
 $ python3 main.py 
 
+
+
 # Interface 
+
+
 <img width="581" alt="flyier" src="https://user-images.githubusercontent.com/109610184/230609652-75421bb2-903d-4ac4-b13f-ad315c065c14.png">
+
+
+
 
 # Flyier Attack 𓆰
 
