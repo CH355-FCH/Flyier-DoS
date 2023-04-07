@@ -27,3 +27,7 @@ $ python3 main.py
 # Flyier Attack 𓆰
 
 <img width="679" alt="turnedoff" src="https://user-images.githubusercontent.com/109610184/230609697-d764eef3-613f-44be-b7fe-1b70d5baac13.png">
+
+
+
+Contact me on discord if you have any issue: @zSodex#3828
